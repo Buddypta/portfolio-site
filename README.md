@@ -1,4 +1,4 @@
-# Portfolio — Reneilwe Matenje
+# Portfolio — Tshegofatso Matenje
 
 My personal portfolio landing page: a single place that introduces me and links to my projects (both the live sites and the code). Built from scratch with **vanilla HTML, CSS, and JavaScript**.
 
